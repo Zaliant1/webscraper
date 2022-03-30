@@ -1,0 +1,162 @@
+{
+  "title": "Star Wars: The Force Awakens",
+  "safe_title": "star_wars_episode_vii_the_force_awakens",
+  "cover": "https://resizing.flixster.com/57FLVzmhnkH7sVXFuTvCyexO2wo=/206x305/v2/https://flxt.tmsimg.com/assets/p10989070_p_v8_bb.jpg",
+  "score": "93",
+  "audience_score": "85",
+  "synopsis": "Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the young duo joins forces with Han Solo (Harrison Ford) to make sure the Resistance receives the intelligence concerning the whereabouts of Luke Skywalker (Mark Hamill), the last of the Jedi Knights.",
+  "cast": {
+    "harrison_ford": {
+      "name": "Harrison Ford",
+      "role": "Han Solo"
+    },
+    "mark_hamill": {
+      "name": "Mark Hamill",
+      "role": "Luke Skywalker"
+    },
+    "carrie_fisher": {
+      "name": "Carrie Fisher",
+      "role": "Leia"
+    },
+    "adam_driver": {
+      "name": "Adam Driver",
+      "role": "Kylo Ren"
+    },
+    "daisy_ridley": {
+      "name": "Daisy Ridley",
+      "role": "Rey"
+    },
+    "john_boyega": {
+      "name": "John Boyega",
+      "role": "Finn"
+    },
+    "oscar-isaac": {
+      "name": "Oscar Isaac",
+      "role": "Poe Dameron"
+    },
+    "lupita_nyongo": {
+      "name": "Lupita Nyong'o",
+      "role": "Maz Kanata"
+    },
+    "andy_serkis": {
+      "name": "Andy Serkis",
+      "role": "Supreme Leader Snoke"
+    },
+    "domhnall_gleeson": {
+      "name": "Domhnall Gleeson",
+      "role": "General Hux"
+    },
+    "anthony_daniels_5": {
+      "name": "Anthony Daniels",
+      "role": "C-3PO"
+    },
+    "max_von_sydow": {
+      "name": "Max von Sydow",
+      "role": "Lor San Tekka"
+    },
+    "peter-mayhew": {
+      "name": "Peter Mayhew",
+      "role": "Chewbacca"
+    },
+    "gwendoline_christie": {
+      "name": "Gwendoline Christie",
+      "role": "Captain Phasma"
+    },
+    "ken-leung": {
+      "name": "Ken Leung",
+      "role": "Admiral Statura"
+    },
+    "greg_grunberg": {
+      "name": "Greg Grunberg",
+      "role": "Snap Wexley"
+    },
+    "1000812-kenny_baker": {
+      "name": "Kenny Baker",
+      "role": "R2-D2"
+    },
+    "iko_uwais": {
+      "name": "Iko Uwais",
+      "role": "Razoo Quin-Fee"
+    },
+    "yayan_ruhian": {
+      "name": "Yayan Ruhian",
+      "role": "Tasu Leech"
+    },
+    "tim_rose": {
+      "name": "Tim Rose",
+      "role": "Admiral Ackbar"
+    },
+    "jj_abrams": {
+      "name": "J.J. Abrams",
+      "role": "Producer"
+    },
+    "lawrence_kasdan": {
+      "name": "Lawrence Kasdan",
+      "role": "Screenwriter"
+    },
+    "michael_debruyn": {
+      "name": "Michael Arndt",
+      "role": "Screenwriter"
+    },
+    "kathleen_kennedy": {
+      "name": "Kathleen Kennedy",
+      "role": "Producer"
+    },
+    "bryan_burk": {
+      "name": "Bryan Burk",
+      "role": "Producer"
+    },
+    "tommy_harper": {
+      "name": "Tommy Harper",
+      "role": "Executive Producer"
+    },
+    "jason_mcgatlin": {
+      "name": "Jason McGatlin",
+      "role": "Executive Producer"
+    },
+    "dan_mindel": {
+      "name": "Dan Mindel",
+      "role": "Cinematographer"
+    },
+    "mary_jo_markey": {
+      "name": "Mary Jo Markey",
+      "role": "Film Editor"
+    },
+    "maryann_brandon": {
+      "name": "Maryann Brandon",
+      "role": "Film Editor"
+    },
+    "john_williams_19": {
+      "name": "John Williams",
+      "role": "Original Music"
+    },
+    "rick_carter": {
+      "name": "Rick Carter",
+      "role": "Production Design"
+    },
+    "darren_gilford": {
+      "name": "Darren Gilford",
+      "role": "Production Design"
+    },
+    "neil_lamont": {
+      "name": "Neil Lamont",
+      "role": "Supervising Art Direction"
+    },
+    "lee_sandales": {
+      "name": "Lee Sandales",
+      "role": "Set Decoration"
+    },
+    "michael_kaplan_2": {
+      "name": "Michael Kaplan",
+      "role": "Costume Designer"
+    },
+    "nina_gold": {
+      "name": "Nina Gold",
+      "role": "Casting"
+    },
+    "april_webster": {
+      "name": "April Webster",
+      "role": "Casting"
+    }
+  }
+}

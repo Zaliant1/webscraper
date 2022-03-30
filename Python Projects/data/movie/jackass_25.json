@@ -1,0 +1,58 @@
+{
+  "title": "Jackass 2.5",
+  "safe_title": "jackass_25",
+  "cover": "https://resizing.flixster.com/m7EpKDKPY-iRZoA1bhHthZ_oCts=/206x305/v2/https://flxt.tmsimg.com/assets/p177311_p_v7_ac.jpg",
+  "score": "",
+  "audience_score": "52",
+  "synopsis": "Dangerous and disgusting stunts performed by the Jackass crew (Johnny Knoxville, Bam Margera).",
+  "cast": {
+    "johnny_knoxville": {
+      "name": "Johnny Knoxville",
+      "role": "Producer"
+    },
+    "bam_margera": {
+      "name": "Bam Margera",
+      "role": "Self"
+    },
+    "preston_lacy": {
+      "name": "Preston Lacy",
+      "role": "Writer"
+    },
+    "chris_pontius_2": {
+      "name": "Chris Pontius",
+      "role": "Self"
+    },
+    "steveo": {
+      "name": "Steve-O",
+      "role": "Self"
+    },
+    "wee-man": {
+      "name": "Jason \"Wee Man\" Acu\u00f1a",
+      "role": "Self"
+    },
+    "dave_england_2": {
+      "name": "Dave England",
+      "role": "Self"
+    },
+    "ehren_mcghehey_2": {
+      "name": "Ehren McGhehey",
+      "role": "Self"
+    },
+    "jeff_tremaine": {
+      "name": "Jeff Tremaine",
+      "role": "Director"
+    },
+    "1005578-david_gale": {
+      "name": "David Gale",
+      "role": "Executive Producer"
+    },
+    "spike_jonze": {
+      "name": "Spike Jonze",
+      "role": "Producer"
+    },
+    "trip_taylor": {
+      "name": "Trip Taylor",
+      "role": "Executive Producer"
+    }
+  }
+}

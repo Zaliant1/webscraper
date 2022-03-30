@@ -1,0 +1,58 @@
+{
+  "title": "Jackass: Number Two",
+  "safe_title": "jackass_number_2",
+  "cover": "https://resizing.flixster.com/5RuTTQaBB3TTibseotKWDEEtiWY=/206x305/v2/https://flxt.tmsimg.com/assets/p161461_p_v8_aa.jpg",
+  "score": "64",
+  "audience_score": "80",
+  "synopsis": "Daredevils (Johnny Knoxville, Bam Margera, Steve-O) go for the gross-out when they subject an unsuspecting public to more outrageous stunts and practical jokes. Danger, pain and bodily fluids are in plentiful supply as the gang tries to up the ante in the continuous quest to shock and annoy.",
+  "cast": {
+    "johnny_knoxville": {
+      "name": "Johnny Knoxville",
+      "role": "Producer"
+    },
+    "bam_margera": {
+      "name": "Bam Margera",
+      "role": "Self"
+    },
+    "steveo": {
+      "name": "Steve-O",
+      "role": "Self"
+    },
+    "chris_pontius_2": {
+      "name": "Chris Pontius",
+      "role": "Self"
+    },
+    "wee-man": {
+      "name": "Jason \"Wee Man\" Acu\u00f1a",
+      "role": "Self"
+    },
+    "ryan_dunn": {
+      "name": "Ryan Dunn",
+      "role": "Self"
+    },
+    "preston_lacy": {
+      "name": "Preston Lacy",
+      "role": "Writer"
+    },
+    "dave_england_2": {
+      "name": "Dave England",
+      "role": "Self"
+    },
+    "ehren_mcghehey_2": {
+      "name": "Ehren McGhehey",
+      "role": "Self"
+    },
+    "jeff_tremaine": {
+      "name": "Jeff Tremaine",
+      "role": "Producer"
+    },
+    "sean_cliver": {
+      "name": "Sean Cliver",
+      "role": "Writer"
+    },
+    "spike_jonze": {
+      "name": "Spike Jonze",
+      "role": "Producer"
+    }
+  }
+}

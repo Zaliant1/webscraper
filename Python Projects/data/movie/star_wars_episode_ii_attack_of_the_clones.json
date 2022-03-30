@@ -1,0 +1,162 @@
+{
+  "title": "Star Wars: Episode II -- Attack of the Clones",
+  "safe_title": "star_wars_episode_ii_attack_of_the_clones",
+  "cover": "https://resizing.flixster.com/cNHN6rdRTRCstMuwep5TI9uu_yc=/206x305/v2/https://flxt.tmsimg.com/assets/p28914_p_v12_ah.jpg",
+  "score": "65",
+  "audience_score": "56",
+  "synopsis": "Set ten years after the events of \"The Phantom Menace,\" the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.",
+  "cast": {
+    "ewan_mcgregor": {
+      "name": "Ewan McGregor",
+      "role": "Obi-Wan Kenobi"
+    },
+    "natalie_portman": {
+      "name": "Natalie Portman",
+      "role": "Padme Amidala"
+    },
+    "hayden_christensen": {
+      "name": "Hayden Christensen",
+      "role": "Anakin Skywalker"
+    },
+    "christopher_lee": {
+      "name": "Christopher Lee",
+      "role": "Count Dooku"
+    },
+    "samuel_l_jackson": {
+      "name": "Samuel L. Jackson",
+      "role": "Mace Windu"
+    },
+    "frank_oz": {
+      "name": "Frank Oz",
+      "role": "Yoda\n                \n            \n            \n            \n                \n                    \n                        Voice"
+    },
+    "ian_mcdiarmid": {
+      "name": "Ian McDiarmid",
+      "role": "Supreme Chancellor Palpatine"
+    },
+    "pernilla_wallgren": {
+      "name": "Pernilla August",
+      "role": "Shmi Skywalker"
+    },
+    "temeura_morrison": {
+      "name": "Temuera Morrison",
+      "role": "Jango Fett"
+    },
+    "jimmy_smits": {
+      "name": "Jimmy Smits",
+      "role": "Senator Bail Organa"
+    },
+    "jack_thompson": {
+      "name": "Jack Thompson",
+      "role": "Cliegg Lars"
+    },
+    "leeanna-walsman": {
+      "name": "Leeanna Walsman",
+      "role": "Zam Wesell"
+    },
+    "ahmed_best": {
+      "name": "Ahmed Best",
+      "role": "Jar Jar Binks"
+    },
+    "rose_byrne": {
+      "name": "Rose Byrne",
+      "role": "Dorme"
+    },
+    "oliver_ford_davies": {
+      "name": "Oliver Ford Davies",
+      "role": "Sio Bibble"
+    },
+    "ronald_falk": {
+      "name": "Ronald Falk",
+      "role": "Dexter Jettster"
+    },
+    "jay_lagaaia": {
+      "name": "Jay Laga'aia",
+      "role": "Captain Typho"
+    },
+    "andrew_secombe": {
+      "name": "Andy Secombe",
+      "role": "Watto"
+    },
+    "anthony_daniels_5": {
+      "name": "Anthony Daniels",
+      "role": "C-3PO, \n                \n                    Lieutenant Faytonni"
+    },
+    "1000812-kenny_baker": {
+      "name": "Kenny Baker",
+      "role": "R2-D2"
+    },
+    "george_lucas": {
+      "name": "George Lucas",
+      "role": "Executive Producer"
+    },
+    "jonathan_hales": {
+      "name": "Jonathan Hales",
+      "role": "Writer"
+    },
+    "rick-mccallum": {
+      "name": "Rick McCallum",
+      "role": "Producer"
+    },
+    "ben_burtt": {
+      "name": "Ben Burtt",
+      "role": "Film Editor"
+    },
+    "david_tattersall": {
+      "name": "David Tattersall",
+      "role": "Cinematographer"
+    },
+    "gavin_bocquet": {
+      "name": "Gavin Bocquet",
+      "role": "Production Designer"
+    },
+    "trisha_biggar": {
+      "name": "Trisha Biggar",
+      "role": "Costume Designer"
+    },
+    "robin_gurland": {
+      "name": "Robin Gurland",
+      "role": "Casting Director"
+    },
+    "peter_walpole": {
+      "name": "Peter Walpole",
+      "role": "Set Decoration"
+    },
+    "john_williams_19": {
+      "name": "John Williams",
+      "role": "Original Music"
+    },
+    "phillip_harvey": {
+      "name": "Phil Harvey",
+      "role": "Art Direction"
+    },
+    "jonathan_lee_3": {
+      "name": "Jonathan Lee",
+      "role": "Art Direction"
+    },
+    "john_knoll": {
+      "name": "John Knoll",
+      "role": "Visual Effects Supervisor"
+    },
+    "rob_coleman": {
+      "name": "Rob Coleman",
+      "role": "Animation Director"
+    },
+    "jason_baird": {
+      "name": "Jason Baird",
+      "role": "Makeup Supervisor"
+    },
+    "matthew_wood": {
+      "name": "Matthew Wood",
+      "role": "Supervising Sound Editor"
+    },
+    "1165744-james_mcteigue": {
+      "name": "James McTeigue",
+      "role": "First Assistant Director"
+    },
+    "stephen_jones_2": {
+      "name": "Stephen Jones",
+      "role": "Production Supervisor"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Jackass: The Lost Tapes",
+  "safe_title": "jackass-the-lost-tapes",
+  "cover": null,
+  "score": "",
+  "audience_score": "63",
+  "synopsis": "",
+  "cast": {
+    "bam_margera": {
+      "name": "Bam Margera",
+      "role": ""
+    },
+    "chris_pontius_2": {
+      "name": "Chris Pontius",
+      "role": ""
+    },
+    "dave_england_2": {
+      "name": "Dave England",
+      "role": ""
+    },
+    "ehren_mcghehey_2": {
+      "name": "Ehren McGhehey",
+      "role": ""
+    },
+    "Unknown Director": {
+      "name": "Unknown Director",
+      "role": "Director"
+    }
+  }
+}
